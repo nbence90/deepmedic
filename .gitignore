@@ -18,6 +18,10 @@ __pycache__/
 
 .Python
 
+ve_tf_dmtf/
+
+examples/output/
+
 build/
 
 develop-eggs/
